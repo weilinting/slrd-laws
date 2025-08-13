@@ -1,4 +1,12 @@
-[
-  { "title": "စာချုပ်စာတမ်းများမှတ်ပုံတင်ဥပ‌ေဒ", "file": "laws/law1.html" },
-  { "title": "စာချုပ်စာတမ်းများမှတ်ပုံတင်နည်းဥပ‌ေဒများ", "file": "laws/law2.html" }
-]
+{
+  "laws": [
+    {
+      "title": "စာချုပ်စာတမ်းများမှတ်ပုံတင်ဥပ‌‌‌ဒေ",
+      "file": "https://raw.githubusercontent.com/weilinting/slrd-laws/main/laws/law1.html"
+    },
+    {
+      "title": "စာချုပ်စာတမ်းများမှတ်ပုံတင်နည်းဥပ‌ဒေဒေား",
+      "file": "https://raw.githubusercontent.com/weilinting/slrd-laws/main/laws/law2.html"
+    }
+  ]
+}
